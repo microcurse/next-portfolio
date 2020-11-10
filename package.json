@@ -8,6 +8,9 @@
     "start": "next start"
   },
   "dependencies": {
+    "classnames": "^2.2.6",
+    "fs": "^0.0.1-security",
+    "gray-matter": "^4.0.2",
     "next": "10.0.1",
     "postcss-flexbugs-fixes": "^5.0.1",
     "postcss-preset-env": "^6.7.0",
